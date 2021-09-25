@@ -18,7 +18,9 @@
     height: 184px;
     position: absolute;
     right: -0.03px;
-    bottom: -00.3px;
+    bottom: -0.03px;
+    margin-right: 90px;
+    margin-bottom: 50px;
 }
 
 .slide3 .text-in-slide strong{
